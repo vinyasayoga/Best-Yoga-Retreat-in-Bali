@@ -1,37 +1,32 @@
-## Welcome to GitHub Pages
+<p>Yoga retreats in Bali are in abundance, these days. At every nook or corner, you can see a yoga teacher training center promising best classes and world-class luxury. You cannot check every single option for your yoga teacher training in Bali. But, you can prepare a checklist of five essential factors that can help you pick the best one. Picture yourself in a secluded yoga retreat, where you learn, prosper, relax and connect your inner self with nature!</p>
 
-You can use the [editor on GitHub](https://github.com/vinyasayoga/Best-Yoga-Retreat-in-Bali/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+<h1>Here are five simple guidelines to help you find your dream yoga retreats in Bali:</h1> 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+<h2>Decide on location, length, and price</h2>
 
-### Markdown
+<p>Bali is blessed with a beautiful landscape from all around. From pristine beaches to majestic volcanic peaks, and friendly Balinese culture to ancient temples; Bali offers the best location for yoga learning. But, you need to focus on your preferred location for stay. Next essential point is duration and pricing of the program. Many trusted and certified yoga schools offer <a href="https://rishikeshvinyasayogaschool.com/best-yoga-teacher-training-bali/">yoga course in Bali</a> for 7 days or even more. Think properly and then take the decision.</p>
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+<h3>Find your true intention</h3>
 
-```markdown
-Syntax highlighted code block
+<p>Once you are done with location, length of stay, and pricing, next is to ask yourself what is the purpose of your visit.</p> 
+<li>
+  <ol>	Do you want to deepen your yoga learning?</ol> 
+  <ol>Do you want a yoga retreat to relax and unwind?</ol>
+  <ol>Are you desperately excited to meet like-minded people or spend some time in oneness?</ol>
+  <ol>Or, you are willing to explore the Balinese culture and tradition?</ol>
+  </li>
+<p>Your Bali yoga retreat could bring the perfect turning point in your life. Embrace the beautiful transformation.</p> 
 
-# Header 1
-## Header 2
-### Header 3
+<h3>Dig through the yoga package</h3>
 
-- Bulleted
-- List
+<p>As you know, not all yoga retreats in Bali are meant to serve equally. Some of them offer an inclusive retreat package with the yoga learning program, course guideline, accommodation in luxury resort, traditional food or outdoor excursions, Ayurvedic massage and much more. Whereas, many of the yoga retreats do not offer the same. May be or may not be; you have to pay extra for every additional service. That can be pretty hefty sometimes. Go through every detail.</p> 
 
-1. Numbered
-2. List
+<h3>Accommodation – Know where you will stay</h3> 
 
-**Bold** and _Italic_ and `Code` text
+<p>Many yoga retreats offer their accommodation facility. Staying in a yoga retreat is safe, affordable and helpful sometimes. Choose a single or shared option; sharing may cost you less than entire room booking. Also, with sharing you can meet with like-minded people on your stay. Or, live separately in a traditional Balinese villa. Both ways, Bali Yoga Retreat will help you relax and feel authentic, read more</p>
 
-[Link](url) and ![Image](src)
-```
+<h3>Food</h3>
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+<p>For vegetarians, Bali is truly a paradise. Most of the restaurants serve vegetarian food only, prepared from Balinese veggies and fruits. A yoga retreat will have that covered for you. Every day you will be served with nutritious meals three times, herbal tea and fresh fruits. All this is to boost your tired lifestyle and enrich body nutrients. Remember to check all the details before enrolling for yoga teacher training course in Bali.</p> 
 
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/vinyasayoga/Best-Yoga-Retreat-in-Bali/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+<p>Keep all these five things in mind, while selecting yoga retreat in Bali. For more queries, you can consult experts. Visit the Rishikesh Vinyasa Yoga School here.</p> 
